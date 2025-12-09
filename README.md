@@ -1,8 +1,8 @@
 # 🚀 Olá, galera! Meu nome é Giselle!
 
-### 🌟 Em Transição de Carreira, Impulsionada pela Tecnologia
+### 🌟 Em Transição de Carreira e apaixonada por Tecnologia
 
-Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente no **fascinante mundo da transição de carreira**, e em busca de novos desafios na área.
+Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente em **transição de carreira**, e em busca de novos desafios na área.
 
 <!--
   Arquivo: github-stats.html
@@ -11,11 +11,9 @@ Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente no **fasci
 -->
 
 <div style="max-width:720px;margin:12px auto;padding:18px;border-radius:12px;border:1px solid #e1e4e8;background:#fff;display:flex;gap:16px;align-items:center;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;color:#24292e;">
-  <!-- Div específica para imagem - substitua src pela sua imagem -->
   <div style="flex:0 0 140px;display:flex;align-items:center;justify-content:center;">
     <img src="https://via.placeholder.com/120](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="Minha imagem" style="width:120px;height:120px;border-radius:12px;object-fit:cover;border:1px solid #d0d7de;">
   </div>
-  <!-- Conteúdo dos GitHub Stats -->
   <div style="flex:1;min-width:0;">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
       <div style="display:flex;flex-direction:column;gap:4px;min-width:0;">
