@@ -74,7 +74,7 @@
 
 Minha paixão por tecnologia me direciona a áreas que considero cruciais e empolgantes:
 
-* ✨ **Interesse Principal:** Estou mergulhando de cabeça no universo de **Análise de Dados** e **Cybersegurança**.
+* ✨ **Interesse Principal:** Estou mergulhando de cabeça no universo de **Análise de Dados** e **Cibersegurança**.
 * 📚 **Aprendizado Atual:**
 * 🛠️ Aprimorando minha **Lógica de Programação** usando **JavaScript**.
 * ☁️ Começando a explorar o mundo de **DevOps** (Ferramentas e Filosofias).
