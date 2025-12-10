@@ -1,8 +1,8 @@
-# 🚀 Olá, galera! Meu nome é Giselle!
+# 🚀 Olá, galera! Meu nome é Giselle!👋
 
 ### 🌟 Em Transição de Carreira e apaixonada por Tecnologia
 
-Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente em **transição de carreira**, e em busca de novos desafios na área.
+👏Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente em **transição de carreira**, e em busca de novos desafios na área.🥳
 
 <!--
   Arquivo: github-stats.html
@@ -17,11 +17,9 @@ Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente em **trans
   <div style="flex:1;min-width:0;">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
       <div style="display:flex;flex-direction:column;gap:4px;min-width:0;">
-        <h2 style="margin:0;font-size:18px;color:#0d1117;">GitHub Stats</h2>
-        <p style="margin:0;font-size:13px;color:#57606a;line-height:1.2;">Resumo de habilidades — nível: básico</p>
+        <h2 style="margin:0;font-size:18px;color:#0d1117;">👩‍💻GitHub Stats👩‍💻</h2>
+        <p style="margin:0;font-size:13px;color:#57606a;line-height:1.2;">👾Tenho habilidade em linguagens de programação como:</p>
       </div>
-      <div style="font-size:12px;color:#6e7781;">🟢 básico</div>
-    </div>
     <div style="margin-top:10px;">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
         <span style="font-size:13px;color:#24292e;">🐍 Python (básico)</span>
@@ -68,7 +66,7 @@ Seja bem-vindo ao meu mundo! Sou uma amante da tecnologia, atualmente em **trans
 * **Fundamentos:** Possuo conhecimentos básicos em:
     * 🐍 **Python**
     * 🌐 **JavaScript**
-    * Markup & Estilização: **HTML** e **CSS**
+    * 🎨 Markup & Estilização: **HTML** e **CSS**
 
 ---
 
